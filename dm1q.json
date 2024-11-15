@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "Samsung",
+			"device": "S23",
+			"filename": "crDroidAndroid-15.0-20241114-dm1q-v11.0-BETA.zip",
+			"download": "https://download2288.mediafire.com/9dxatlrzd92glUYGUYdJkBXILJBcOBdDjA0L81bUFC8AIKzCS7a65keybAVs-E6Trfy47DT_9_z1_yucDu0WTgsaZ5pnQIzAPp2g0LsyMXpJCiMbyIiXluDjigcu8_mcLu6vG3NDRPLhVXw62EgU3mc7LyLiMUtuuuvMY4EBAg/f5leangxngwmtlc/crDroidAndroid-15.0-20241114-dm1q-v11.0-BETA.zip",
+			"timestamp": 1731612528,
+			"md5": "b4edcd6208df815bea0e1b3ed49b4182",
+			"sha256": "03dfcd7f6e3ad4d374a955d5e0eba833847cf5657ae04548ab75b7bb7ea77966",
+			"size": 1695661561,
+			"version": "11.0",
+			"buildtype": "Weekly",
+			"forum": "https://xdaforums.com/t/rom-crdroid-11-0-beta-gapps-unofficial-dm1q-sm-s911x.4701238/#post-89806183",
+			"gapps": "https://github.com/MindTheGapps/15.0.0-arm64/releases",
+			"firmware": "https://www.sammobile.com/samsung/galaxy-s23/firmware/#SM-S911B",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://twrp.me/samsung/samsunggalaxydm1q.html",
+			"paypal": "",
+			"telegram": "https://t.me/s23aosp",
+			"dt": "https://github.com/dmXq-development/android_device_samsung_dm1q",
+			"common-dt": "https://github.com/dmXq-development/android_device_samsung_sm8550-common",
+			"kernel": "https://github.com/pckotzer/android_kernel_samsung_sm8550"
+		}
+	]
+}

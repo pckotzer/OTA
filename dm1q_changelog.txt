@@ -1,0 +1,192 @@
+====================
+     11-15-2024
+====================
+* Fixed Usb tethering
+
+
+====================
+     11-14-2024
+====================
+
+====================
+     11-13-2024
+====================
+
+====================
+     11-12-2024
+====================
+
+   * device/qcom/sepolicy_vndr/sm8550
+8a517e8 sepolicy: Allow USB HAL to rw usb_data_enabled nodes
+
+   * frameworks/base
+d84b097a87c6 New translations (#1175)
+
+   * frameworks/native
+77b3d54234 SF: Don't enable expensive rendering for unknown dataspace
+
+   * packages/apps/Dialer
+bbef62948 New translations (#131)
+
+   * packages/apps/Launcher3
+afbabce0db Merge tag 'android-15.0.0_r5' into 15.0
+
+   * packages/apps/Settings
+72e83603fb3 Settings: Hide the nav bar during udfps fp enrolling
+
+   * packages/apps/Updater
+7eb4160 Catch exceptions when enabling performance mode
+
+   * vendor/qcom/opensource/usb
+c97e2df usb: Use DFP/UFP mode for non-power role source/sink
+
+====================
+     11-11-2024
+====================
+
+   * device/lineage/atv
+a65c47a atv: init: Allow opt-out of forced 1080p scaling
+
+   * device/qcom/sepolicy
+a21fe12 Merge tag 'LA.QSSI.15.0.r1-11400-qssi.0' into staging/lineage-22.0_merge-LA.QSSI.15.0.r1-11400-qssi.0
+
+   * device/qcom/sepolicy_vndr/legacy-um
+626d4de fixup! Remove vendor_service.
+
+   * device/qcom/sepolicy_vndr/sm8450
+d0253f7 Merge tag 'LA.VENDOR.1.0.r1-26700-WAIPIO.QSSI14.0' into staging/lineage-22.0_merge-LA.VENDOR.1.0.r1-26700-WAIPIO.QSSI14.0
+
+   * hardware/qcom-caf/sm8450/audio/primary-hal
+ead1803 Merge tag 'LA.VENDOR.1.0.r1-26700-WAIPIO.QSSI14.0' into staging/lineage-22.0_merge-LA.VENDOR.1.0.r1-26700-WAIPIO.QSSI14.0
+
+   * hardware/qcom-caf/sm8550/audio/agm
+c6a803d Merge tag 'AUDIO.LA.8.0.r1-11600-KAILUA.0' into staging/lineage-22.0_merge-AUDIO.LA.8.0.r1-11600-KAILUA.0
+
+   * hardware/qcom-caf/sm8550/audio/pal
+d169604 Merge tag 'AUDIO.LA.8.0.r1-11600-KAILUA.0' into staging/lineage-22.0_merge-AUDIO.LA.8.0.r1-11600-KAILUA.0
+
+   * hardware/qcom-caf/sm8550/audio/primary-hal
+abf6353 Merge tag 'AUDIO.LA.8.0.r1-11600-KAILUA.0' into staging/lineage-22.0_merge-AUDIO.LA.8.0.r1-11600-KAILUA.0
+
+   * hardware/qcom-caf/wlan
+dd4208e Merge tag 'LA.VENDOR.14.3.0.r1-17600-lanai.QSSI15.0' into staging/lineage-22.0_merge-LA.VENDOR.14.3.0.r1-17600-lanai.QSSI15.0
+
+   * packages/apps/Contacts
+7b4b6262d Contacts: Remove navigation bar divider
+
+   * packages/services/Car
+b2c492c car_product: Guard APN copy with LINEAGE_BUILD
+
+   * tools/extract-utils
+34010ec extract_utils: allow `call()` to accept arbitrary arguments
+
+   * vendor/qcom/opensource/commonsys-intf/bluetooth
+eeba1c7 Merge tag 'LA.QSSI.15.0.r1-11400-qssi.0' into staging/lineage-22.0_merge-LA.QSSI.15.0.r1-11400-qssi.0
+
+   * vendor/qcom/opensource/commonsys-intf/display
+f32767c Merge tag 'LA.QSSI.15.0.r1-11400-qssi.0' into staging/lineage-22.0_merge-LA.QSSI.15.0.r1-11400-qssi.0
+
+   * vendor/qcom/opensource/interfaces
+78890ac Merge tag 'LA.QSSI.15.0.r1-11400-qssi.0' into staging/lineage-22.0_merge-LA.QSSI.15.0.r1-11400-qssi.0
+
+   * vendor/qcom/opensource/power
+5a96e66 Merge tag 'LA.VENDOR.14.3.0.r1-17600-lanai.QSSI15.0' into staging/lineage-22.0_merge-LA.VENDOR.14.3.0.r1-17600-lanai.QSSI15.0
+
+====================
+     11-10-2024
+====================
+
+   * packages/apps/ExactCalculator
+b10a222 ExactCalculator: Setup for edge to edge support
+
+   * packages/apps/crDroidSettings
+4769b1e New Crowdin updates (#1192)
+
+====================
+     11-09-2024
+====================
+
+   * android
+f3b50d0 Merge 'lineage-22.0' into 15.0
+
+   * build/make
+e84657eb58 Merge 'lineage-22.0' into 15.0
+
+   * frameworks/opt/telephony
+a58eb4abef Merge 'lineage-22.0' into 15.0
+
+   * hardware/lineage/interfaces
+9131e89 Merge 'lineage-22.0' into 15.0
+
+   * lineage-sdk
+4f2eb332 lineage-sdk: Allow to customize bottom corner swipe up action [3/4]
+
+   * packages/apps/DocumentsUI
+76c544638 Merge 'lineage-22.0' into 15.0
+
+   * packages/apps/LineageParts
+a589fc2 Disable unused components
+
+   * packages/apps/Messaging
+080e016 Merge 'lineage-22.0' into 15.0
+
+   * packages/apps/SetupWizard
+700cac5 Merge 'lineage-22.0' into 15.0
+
+   * packages/apps/ThemePicker
+669f6157 Merge 'lineage-22.0' into 15.0
+
+   * packages/modules/Bluetooth
+659e7a1eaf Merge 'lineage-22.0' into 15.0
+
+   * packages/modules/Wifi
+f7aadb6fb6 Merge 'lineage-22.0' into 15.0
+
+   * system/core
+d25aaf4bb Avoid unnecessary allocation in VectorImpl
+
+   * system/sepolicy
+ec8abec39 Merge 'lineage-22.0' into 15.0
+
+   * vendor/lineage
+5021adda overlay: update configs for AiAi
+
+====================
+     11-08-2024
+====================
+
+   * hardware/google/graphics/common
+dbdd700 Merge tag 'android-15.0.0_r5' into staging/lineage-22.0_merge-android-15.0.0_r5
+
+   * lineage/scripts
+cf89200 pixel: Adapt to new build prop override scheme
+
+   * packages/apps/Recorder
+824dc49 Recorder: grant read permissions for apps requesting recordings
+
+   * packages/providers/MediaProvider
+3bb8947 Merge tag 'android-15.0.0_r5' into staging/lineage-22.0_merge-android-15.0.0_r5
+
+====================
+     11-07-2024
+====================
+
+   * build/release
+0d37102 AP3A: Set SPL to 2024-11-05
+
+   * prebuilts/clang/host/linux-x86/clang-latest
+6f76406 clang 19.0.1 (based on r536225) from build 12602325
+
+====================
+     11-06-2024
+====================
+
+   * art
+5ddf3284bf optimized hprof speed
+
+   * device/google/contexthub
+8e258d9 Revert "Removed unused Android.mk under device/google/contexthub"
+
+   * vendor/qcom/opensource/commonsys/fm
+41adf54 FM: Add backward compatiblity support for oreo FM configs
+
